@@ -7,9 +7,9 @@ and with top-class customer service is a huge task with many highly important re
 Customers who book a flight with BA will experience many interaction points with the BA brand. 
 Understanding a customer's feelings, needs, and feedback is crucial for any business, including BA.
 
-Web scraping
-Data cleaning & Manipulation
-Data Preprocessing
-Data Visualization
-Sentiment Analysis with VADER
-Topic Modelling with LDA
+Web scraping.
+Data cleaning & Manipulation.
+Data Preprocessing.
+Data Visualization.
+Sentiment Analysis with VADER.
+Topic Modelling with LDA.
